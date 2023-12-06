@@ -15,6 +15,6 @@ This repository contains the following Python scripts which simulate the control
 
 ## Results
 Included in this repository are the results demonstrating the closed-loop properties achieved by the data-driven MPC scheme. These results validate the robustness and stability guarantees of the algorithm and are key to understanding the practical applications of the proposed control scheme.
-![gg](Figure_1.png)
+![gg](Figure_2.png)
 ## Citing This Work
 J. Berberich, J. Köhler, M. A. Müller and F. Allgöwer, "Data-Driven Model Predictive Control With Stability and Robustness Guarantees," in IEEE Transactions on Automatic Control, vol. 66, no. 4, pp. 1702-1717, April 2021, doi: 10.1109/TAC.2020.3000182.
